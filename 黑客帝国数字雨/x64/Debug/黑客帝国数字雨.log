@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\编译器\code\黑客帝国数字雨\main.cpp(114,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  黑客帝国数字雨.vcxproj -> D:\编译器\code\黑客帝国数字雨\x64\Debug\黑客帝国数字雨.exe
